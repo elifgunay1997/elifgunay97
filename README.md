@@ -1,28 +1,54 @@
-# Hi 👋🏻, I`m Elif Günay
+# 👩‍💻 Elif Günay
 
-- 📫 How to reach me **eliffgunay@yandex.com**
-- 💼 **LinkedIn:** [linkedin.com/in/elif-günay](https://linkedin.com/in/elif-günay)
-- 🌍 **Location:** Passau, Germany
-- ⚙️ **GitHub:** [github.com/elifgunay1997](https://github.com/elifgunay1997)
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="220" />
+**Data Science | NLP | Mathematician | AI.Engineer| Infrastructure Enthusiast**
+
+🎓 Based in Passau, Germany  
+📊 Passionate about turning data into actionable insights  
+🧠 Exploring **LLMs**, **Retrieval-Augmented Generation (RAG)**, and **MLOps**  
+💡 Building projects in NLP, Generative AI, and Data Infrastructure  
+🌱 Always learning — one project at a time.
+
+---
+
+## 🔧 Tech Stack
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-013243?style=flat&logo=numpy)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter)
+
+---
+
+## 📂 Featured Projects
+
+- 🔍 [**Text Analysis**](https://github.com/elifgunay1997/Dlta-Text-analysis)  
+  NLP techniques applied to unstructured text data using Python.
+
+- 📈 [**Crypto Time-Series Analysis**](https://github.com/elifgunay1997/DLTA_btc_eth_Analysis)  
+  Exploratory data analysis on BTC and ETH prices.
+
+- 🤖 **Coming Soon:**  
+  - Sentiment Analysis with Transformers  
+  - RAG-powered Q&A System  
+  - LLM Fine-tuning Experiments
+
+---
+
+## 🧠 Current Focus
+
+- 📚 Fine-tuning LLMs for domain-specific use cases  
+- 🔍 Implementing RAG pipelines using **LangChain** and **FAISS**  
+- ⚙️ Exploring LLMOps: versioning, monitoring, deployment of models  
+- 🔄 Making NLP tools useful for **Turkish & English** datasets
 
 
-# I'm a Student 👩🏻‍🎓, Data Scientist 📊, Mathematician 🧮, Writer and Teacher 👩🏻‍🎓 !
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other AI 👩‍💻 
-- 🤔 I’m looking for help with Infrastructure
-- 🥅 2024 Goals: Develop to be heard in the world 🌎 and keep going artificial intelligence 🤖
-- ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, running🏃🏼‍♀️‍➡️ and pilates 🤸‍♀️
+---
 
+## 🌐 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/elif-günay)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&style=flat)](https://www.kaggle.com/elifgunay)
 
- ### 🔧 Languages and Tools:
-
-### Technologies
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+---
+_“Data is the new oil, but insight is the spark that makes it burn.”_
